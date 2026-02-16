@@ -13,7 +13,8 @@ Features :
 
 Color Palette :
 Cold Theme colors 
-https://colorhunt.co/palette/0c2b4e1a3d641d546cf4f4f4
+<img width="475" height="481" alt="ภาพ" src="https://github.com/user-attachments/assets/d5a9a5bd-6a53-4f8f-b804-16e47ec538db" />
+
 #0C2B4E
 #1A3D64
 #1D546C
