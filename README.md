@@ -5,10 +5,10 @@ Project Name is To-Do / Task Manager,so it about a small project of myself or so
 
 Features :
 1.Can Add / Delete / Edit Tasks
-2.Can Login (Not sure) If logged in, the system will have separate tasks for each user
+2.Can Login and The system can separate tasks for each user
 3.Have a progress bar 
 4.Have a check list
-5. .....
+5.Have group task
 
 Color Palette :
 Cold Theme colors
