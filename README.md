@@ -1,7 +1,7 @@
 # To-Do-TaskManager
 Frontend-Work
 
-Project Name is To-Do / Task Manager,so it about a small project of myself or someone works then i will named it TaskFlow
+Project Name is To-Do / Task Manager,It's about small tasks like homework, and the system manages those tasks,so i'll name the website "TaskFlow" 
 
 Features :
 1.Can Add / Delete / Edit Tasks
